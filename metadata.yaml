@@ -1,0 +1,41 @@
+_repo: Spaens-Heydinnetie_26696
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cats, Jacob
+    aliases:
+    - Kats, J. (Jakob)
+    - Kats, Jakob
+    birthdate: 1577
+    deathdate: 1660
+    gutenberg_agent_id: '32181'
+    url: http://www.gutenberg.org/2009/agents/32181
+    wikipedia:
+    - http://www.dbnl.nl/auteurs/auteur.php?id=cats001
+    - http://nl.wikipedia.org/wiki/Jacob_Cats
+  editor:
+    agent_name: Buitenrust Hettema, F.
+    aliases:
+    - Buitenrust Hettema, Foeke
+    - Hettema, F. Buitenrust
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '32182'
+    url: http://www.gutenberg.org/2009/agents/32182
+description: ''
+gutenberg_issued: '2008-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26696'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Dutch drama'
+title: Spaens Heydinnetie
+url: http://www.gutenberg.org/ebooks/26696
